@@ -4,7 +4,7 @@ const app=express()
 
 const port=4000;
 app.get('/',(req,res)=>{
-    res.send("hli gulam")
+    res.send("hliknknks gulam")
 })
 app.get('/gym',(req,res)=>{
     res.send("yo man ")
